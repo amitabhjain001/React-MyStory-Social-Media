@@ -1,8 +1,20 @@
-# React + Vite
+# React Post App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a **React App** designed to demonstrate **state management** and **component reusability**.  
+Built with **React**, **Bootstrap**, and **Vite**.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Post feed displaying all posts
+- Create new posts using a post creation form
+- User signup functionality
+- Reusable components for better code organization
+- Responsive design using Bootstrap
+
+## Technologies Used
+
+- React
+- Vite
+- Bootstrap
+- JavaScript (ES6+)
+- HTML & CSS
